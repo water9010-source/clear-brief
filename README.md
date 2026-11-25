@@ -13,7 +13,7 @@ AI 把工作交給另一個 AI 或新開的對話時，最常出事的是「對�
 - 不保證一定有效；AI 不一定每次都照做。
 
 ## 取得
-1 美元：https://aquaquest23.gumroad.com/l/eucgh
+購買：https://aquaquest23.gumroad.com/l/eucgh
 
 ## 開發者
 LI WEI，「治理系統 Pro」的開發者。內容整理自ai-collab 的四條寫法規則（ai-collab 本身在 GitHub 免費公開）；本 Skill 另加範本、正反範例與常見誤會清單；製作完成後經過另一個 AI 對話獨立檢查。
@@ -23,4 +23,4 @@ LI WEI，「治理系統 Pro」的開發者。內容整理自ai-collab 的四條
 
 ---
 
-English: A Claude Skill (Traditional Chinese): Clear Brief. No usage record yet. Developer: LI WEI, creator of 治理系統 Pro (Governance System Pro). You may use and modify it; any modified or shared copy must keep LICENSE.txt and the line "Original author: LI WEI". Get it for USD 1 on Gumroad: https://aquaquest23.gumroad.com/l/eucgh.
+English: A Claude Skill (Traditional Chinese): Clear Brief. No usage record yet. Developer: LI WEI, creator of 治理系統 Pro (Governance System Pro). You may use and modify it; any modified or shared copy must keep LICENSE.txt and the line "Original author: LI WEI". Get it on Gumroad: https://aquaquest23.gumroad.com/l/eucgh.
